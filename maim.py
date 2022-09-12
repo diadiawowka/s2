@@ -1,4 +1,4 @@
-print(hello git)
+a esli tyt
 
 print(hello git)
 
